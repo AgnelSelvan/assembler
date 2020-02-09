@@ -1,0 +1,10 @@
+Label | Stmt | Operands
+Pg1   | START|   _
+_     | USING|   *,15
+_     |   L  |   1,FOUR
+_     |   A  |   1,FIVE
+_     |   ST |   1,TEMP
+FOUR  |   DC |   F,4 
+FIVE  |   DC |   F,5
+TEMP  |   DS |   1,F
+_     |  END |   _, _

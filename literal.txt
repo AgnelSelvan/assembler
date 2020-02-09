@@ -1,0 +1,3 @@
+Literal | Value | Length | R/A 
+F,4		|	28	|	4	|	R
+F,5		|	32	|	4	|	R
